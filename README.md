@@ -35,7 +35,7 @@ Jika kita berfokus pada 4 parameter ini, maka metric evaluasi yang digunakan ada
 
 Tetapi, dari ke-4 data tersebut. Karena kebutuhan perusahaan adalah agar penggunaan budget promo diberikan ke orang yang tepat (Churn), maka kita akan berfokus pada **Recall**. Hal ini dikarenakan parameter ini akan membandingkan semua customer yang Churn
 
-# Tahap yang dilakukan
+# Proses Pembuatan Model
 1. Data Understanding
    Pada tahap ini, saya melakukan pemahaman terhadap jenis dataset yang akan digunakan. Summarynya adalah :
    - Data memiliki 11 Kolom dan 3941 Baris
